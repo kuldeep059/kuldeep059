@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kuldeep059&show_icons=true&locale=en&theme=dracula&count_private=true" alt="parteekcoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parteekcoder&theme=dracula" alt="parteekcoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep059&theme=dracula" alt="parteekcoder" /></p>
 
 
