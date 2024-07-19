@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep059&label=Profile%20views&color=0e75b6&style=flat" alt="amandeepkaur1804" /> </p>
 <h3 align="center">A passionate Web developer and Cloud Practioner</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 - 👯 I’m looking to collaborate on **Open Source Projects**
