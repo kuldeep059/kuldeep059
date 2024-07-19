@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
+- 🌱 I’m currently learning **A.I and Machine Learning**
+
 - 💬 Ask me about **Web Development,Cloud Compuitng with AWS,Laravel9,Azure and many more....**
 
 - 📫 How to reach me **kuldeep__singh@outlook.com**
