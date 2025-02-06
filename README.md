@@ -24,6 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeep059&show_icons=true&locale=en&layout=compact" alt="kuldeep059" /></p>
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kuldeep059&show_icons=true&locale=en&theme=dracula&count_private=true" alt="parteekcoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep059&theme=dracula" alt="parteekcoder" /></p>
 
 
