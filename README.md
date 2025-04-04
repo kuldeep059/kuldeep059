@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kuldeep__singh@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F-Qs7pGNk362AthXBRDMK3Bl4d4Rxc5z/view?usp=drive_link](https://drive.google.com/file/d/1F-Qs7pGNk362AthXBRDMK3Bl4d4Rxc5z/view?usp=drive_link)
+- 📄 Know about my experiences - Resume Link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
