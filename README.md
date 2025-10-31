@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kuldeep059?tab=repositories](https://github.com/kuldeep059?tab=repositories)
 
-- 💬 Ask me about **Mern Stack Development, Gen AI and cloud computing**
+- 💬 Ask me about **Mern Stack Development, Gen AI and Cloud Computing**
 
 - 📫 How to reach me **kuldeep__singh@outlook.com**
 
