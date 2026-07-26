@@ -15,8 +15,7 @@
 
 - 📫 How to reach me: **kuldeep.singhh@hotmail.com**
 
-- 📄 Check out my experience & projects: [Resume Link](https://drive.google.com/file/d/1djRZTeP_rnthxhThoDQElwIp-JE6sFoN/view?usp=sharing)
-
+- 📄 Check out my experience & projects: [Resume Link](https://drive.google.com/file/d/1xq344YWEWwoWzFya2K2I5z9rnmkdWzIN/view?usp=sharing)
 ---
 
 <h3 align="left">🏆 Key Achievements & Milestones</h3>
